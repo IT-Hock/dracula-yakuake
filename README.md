@@ -1,3 +1,5 @@
+# NOW PART OF DRACULA OFFICIAL! NEW REPOSITORY [HERE](https://github.com/dracula/yakuake)
+
 # Dracula for [Yakuake](https://apps.kde.org/de/yakuake/)
 
 > A dark theme for [Yakuake](https://apps.kde.org/de/yakuake/).
